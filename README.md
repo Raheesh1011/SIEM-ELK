@@ -86,10 +86,5 @@ Alerts are stored in the `elastalert_status` index, viewable in Kibana.
 
 ---
 
-## 👨‍💻 Author
 
-**Sathvik**
-🔗 [GitHub Profile](https://github.com/sathvik-123547)
-
-```
 
